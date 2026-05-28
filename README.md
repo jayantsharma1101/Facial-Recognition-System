@@ -1,4 +1,4 @@
-# Facial Recognition Setup (DeepFace)
+# Facial Recognition n8n Automation (DeepFace)
 
 ## Prequisites
 Before starting, ensure you have Python 3.8+ installed on your system.
